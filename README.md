@@ -23,9 +23,7 @@ Meu foco é me tornar referência em **Segurança em Nuvem** e ajudar outras pes
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623ce4?style=for-the-badge&logo=terraform&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 </div>
 
@@ -62,9 +60,8 @@ Meu foco é me tornar referência em **Segurança em Nuvem** e ajudar outras pes
 
 ---
 
-### ✨ Um pouco mais sobre mim
-
 > “Uma pessoa que nunca cometeu um erro, nunca tentou nada de novo.”  
+
 
 <p align="center">
   Feito com 💻 e ☕.
