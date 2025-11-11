@@ -1,10 +1,6 @@
-<!-- Banner / Avatar -->
-<p align="center">
-  <img src="https://github.com/otaviolxna/otaviolxna/blob/main/icone.png" width="160" style="border-radius:50%;" alt="Avatar estilo 2D">
-</p>
-
-<h1 align="center">👋 Olá, eu sou o Otávio Lana!</h1>
-<h3 align="center">Estudante de Segurança da Informação | DevSecOps | Cloud Security</h3>
+<h3 style="margin: 0; padding: 0;">👋 Olá, eu sou o <strong>Otávio Lana!</strong></h3>
+  <p style="margin: 2px 0 0 0;">Estudante de Segurança da Informação | DevSecOps | Cloud Security</p>
+</div>
 
 ---
 
