@@ -7,7 +7,7 @@
 ### 🌤️ Sobre mim
 
 Sou apaixonado por tecnologia e segurança da informação, atualmente focado em **Cloud Security e DevSecOps**.  
-Atuo em projetos que envolvem **AWS, Linux, Docker, GitHub Actions e FinOps**, buscando sempre unir eficiência, automação e segurança.
+Atuo em projetos que envolvem **AWS, Linux, Docker e GitHub Actions**, buscando sempre unir eficiência, automação e segurança.
 
 Gosto de transformar aprendizado em prática — seja em **laboratórios, automações ou projetos open source**.  
 Meu foco é me tornar referência em **Segurança em Nuvem** e ajudar outras pessoas a trilharem esse caminho também.
@@ -55,6 +55,7 @@ Meu foco é me tornar referência em **Segurança em Nuvem** e ajudar outras pes
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Otávio%20Lana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otaviolana)
+[![Email](https://img.shields.io/badge/Email-otaviolxna14%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otaviolxna14@gmail.com)
 
 </div>
 
