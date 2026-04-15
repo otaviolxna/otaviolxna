@@ -1,10 +1,6 @@
-Otávio Lana
+Otávio Kenji de Lana
 
-
-
-
-
-  Cloud Solutions Architect · AWS · Azure · DevSecOps
+  Cloud Solutions Architect · AWS · Azure · 
 
 
 
