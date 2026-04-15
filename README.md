@@ -1,69 +1,131 @@
-<h3 style="margin: 0; padding: 0;">👋 Olá, eu sou o <strong>Otávio Lana!</strong></h3>
-  <p style="margin: 2px 0 0 0;">Estudante de Segurança da Informação | DevSecOps | Cloud Security</p>
-</div>
+Otávio Lana
 
----
 
-### 🌤️ Sobre mim
 
-Sou apaixonado por tecnologia e segurança da informação, atualmente focado em **Cloud Security e DevSecOps**.  
-Atuo em projetos que envolvem **AWS, Linux, Docker e GitHub Actions**, buscando sempre unir eficiência, automação e segurança.
 
-Gosto de transformar aprendizado em prática — seja em **laboratórios, automações ou projetos open source**.  
-Meu foco é me tornar referência em **Segurança em Nuvem** e ajudar outras pessoas a trilharem esse caminho também.
 
----
+  Cloud Solutions Architect · AWS · Azure · DevSecOps
 
-### ⚙️ Tecnologias e Ferramentas
 
-<div align="center">
+
+
+
+
+
   
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  
+  
 
-</div>
+
+
 
 ---
 
-### 🚀 Projetos em Destaque
+## Sobre
 
-| Projeto | Descrição | Tecnologias |
-|----------|------------|--------------|
-| **Projeto WordPress em Alta Disponibilidade (AWS)** | Arquitetura escalável com EC2, RDS, EFS, ALB e Auto Scaling | AWS, Linux, Docker, CloudWatch |
-| **Pipeline CI/CD com GitHub Actions** | Automação de build, scan e deploy de aplicações containerizadas | GitHub Actions, Docker, DevSecOps |
-| **Servidor Linux com Monitoramento e Alertas via Discord** | Sistema automatizado com métricas, logs e notificações | Linux, Bash, Nginx, Cron, Webhook |
+Estudante de Segurança da Informação com foco em **arquitetura de soluções cloud**.
+Projeto e implemento infraestruturas escaláveis, seguras e de alta disponibilidade
+na AWS, com visão prática de multi-cloud (AWS + Azure).
+
+Meu objetivo é atuar como **Arquiteto de Soluções** — conectando requisitos de
+negócio a decisões técnicas de infraestrutura, segurança e custo.
 
 ---
 
-### 📊 Estatísticas do GitHub
+## Certificações
 
-<div align="center">
+| Certificação | Status | Validade |
+|---|---|---|
+| AWS Certified Cloud Practitioner | ✅ Obtida | — |
+| Microsoft AZ-900 | 🔄 Em andamento | — |
+| AWS Solutions Architect – Associate | 📌 Próxima meta | — |
+
+---
+
+## Arquitetura em destaque
+
+### WordPress em Alta Disponibilidade (AWS)
+> Infraestrutura multi-AZ com failover automático, escalabilidade horizontal e custo otimizado.
+
+```
+Internet → Route 53 → ALB (Multi-AZ)
+                         ├── EC2 Auto Scaling Group
+                         │       └── EFS (storage compartilhado)
+                         └── RDS MySQL (Multi-AZ, standby automático)
+                                   └── CloudWatch Alarms + SNS
+```
+
+**Decisões de arquitetura:**
+- ALB para distribuição de carga e health checks automáticos
+- EFS para garantir consistência de arquivos entre instâncias
+- RDS Multi-AZ para RTO/RPO baixos
+- Auto Scaling baseado em métricas de CPU e requisições
+
+---
+
+### Pipeline CI/CD com DevSecOps
+> Automação de build, análise de segurança e deploy com shift-left security.
+
+```
+Push → GitHub Actions
+          ├── Build & Test
+          ├── SAST (análise estática)
+          ├── Scan de imagem Docker
+          └── Deploy containerizado
+```
+
+**Controles de segurança implementados:** análise estática no pipeline,
+scan de vulnerabilidades em imagem antes do deploy, secrets via variáveis
+de ambiente criptografadas.
+
+---
+
+### Servidor Linux com Observabilidade
+> Monitoramento proativo com alertas em tempo real via webhook.
+
+**Stack:** Linux · Nginx · Bash · Cron · Discord Webhook
+
+Coleta de métricas (CPU, memória, disco), log centralizado e alertas
+automáticos — sem dependência de ferramentas pagas.
+
+---
+
+## Tecnologias
+
+**Cloud & Infra**
+`AWS` `Azure (AZ-900)` `Docker` `Kubernetes` `Terraform`
+
+**Segurança**
+`IAM` `Security Groups` `DevSecOps` `SAST` `Hardening Linux`
+
+**Observabilidade**
+`CloudWatch` `Nginx` `Bash` `Cron` `Webhooks`
+
+**Linguagens**
+`Python` `Bash` `YAML`
+
+---
+
+## GitHub
+
+
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OtavioLxna&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioLxna&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
+
+
 
 ---
 
-### 🌐 Conecte-se comigo
+## Contato
 
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Otávio%20Lana-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/otaviolana)
-[![Email](https://img.shields.io/badge/Email-otaviolxna14%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:otaviolxna14@gmail.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Otávio%20Lana-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/otaviolana)
+[![Email](https://img.shields.io/badge/Email-otaviolxna14%40gmail.com-D14836?style=flat-square&logo=gmail)](mailto:otaviolxna14@gmail.com)
 
 ---
 
-> “Uma pessoa que nunca cometeu um erro, nunca tentou nada de novo.”  
 
 
-<p align="center">
-  Feito com 💻 e ☕.
-</p>
+
+  Construindo soluções que escalam · AWS · Azure · Open Source
