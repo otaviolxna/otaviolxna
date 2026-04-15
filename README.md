@@ -72,4 +72,4 @@ negócio a decisões técnicas de infraestrutura, segurança e custo.
 
 
 
-  Construindo soluções que escalam · AWS · Azure · Open Source
+  Construindo soluções · AWS · Azure ·
