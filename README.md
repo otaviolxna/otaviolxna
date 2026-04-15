@@ -48,13 +48,13 @@ negócio a decisões técnicas de infraestrutura, segurança e custo.
 `AWS` `Azure (AZ-900)` `Docker` `Kubernetes` `Terraform`
 
 **Segurança**
-`IAM` `Security Groups` `DevSecOps` `SAST` `Hardening Linux`
+`IAM` `Security Groups`
 
 **Observabilidade**
-`CloudWatch` `Nginx` `Bash` `Cron` `Webhooks`
+`CloudWatch` `CloudTrail`
 
 **Linguagens**
-`Python` `Bash` `YAML`
+`Python` `HTML` `YAML`
 
 ---
 
