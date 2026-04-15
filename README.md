@@ -1,4 +1,4 @@
-Otávio Kenji de Lana
+Otávio Lana
 
   Cloud Solutions Architect · AWS · Azure · 
 
