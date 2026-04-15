@@ -42,54 +42,6 @@ negócio a decisões técnicas de infraestrutura, segurança e custo.
 
 ---
 
-## Arquitetura em destaque
-
-### WordPress em Alta Disponibilidade (AWS)
-> Infraestrutura multi-AZ com failover automático, escalabilidade horizontal e custo otimizado.
-
-```
-Internet → Route 53 → ALB (Multi-AZ)
-                         ├── EC2 Auto Scaling Group
-                         │       └── EFS (storage compartilhado)
-                         └── RDS MySQL (Multi-AZ, standby automático)
-                                   └── CloudWatch Alarms + SNS
-```
-
-**Decisões de arquitetura:**
-- ALB para distribuição de carga e health checks automáticos
-- EFS para garantir consistência de arquivos entre instâncias
-- RDS Multi-AZ para RTO/RPO baixos
-- Auto Scaling baseado em métricas de CPU e requisições
-
----
-
-### Pipeline CI/CD com DevSecOps
-> Automação de build, análise de segurança e deploy com shift-left security.
-
-```
-Push → GitHub Actions
-          ├── Build & Test
-          ├── SAST (análise estática)
-          ├── Scan de imagem Docker
-          └── Deploy containerizado
-```
-
-**Controles de segurança implementados:** análise estática no pipeline,
-scan de vulnerabilidades em imagem antes do deploy, secrets via variáveis
-de ambiente criptografadas.
-
----
-
-### Servidor Linux com Observabilidade
-> Monitoramento proativo com alertas em tempo real via webhook.
-
-**Stack:** Linux · Nginx · Bash · Cron · Discord Webhook
-
-Coleta de métricas (CPU, memória, disco), log centralizado e alertas
-automáticos — sem dependência de ferramentas pagas.
-
----
-
 ## Tecnologias
 
 **Cloud & Infra**
