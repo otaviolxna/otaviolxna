@@ -54,8 +54,7 @@ negócio a decisões técnicas de infraestrutura, segurança e custo.
 `CloudWatch` `CloudTrail`
 
 **Linguagens**
-`Python` `HTML` `YAML`
-
+`Python` `HTML` 
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OtavioLxna&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
