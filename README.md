@@ -36,7 +36,7 @@ negócio a decisões técnicas de infraestrutura, segurança e custo.
 
 | Certificação | Status | Validade |
 |---|---|---|
-| AWS Certified Cloud Practitioner | ✅ Obtida | — |
+| AWS Certified Cloud Practitioner | ✅ Obtida | 2028 |
 | Microsoft AZ-900 | 🔄 Em andamento | — |
 | AWS Solutions Architect – Associate | 📌 Próxima meta | — |
 
