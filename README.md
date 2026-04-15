@@ -45,7 +45,7 @@ negócio a decisões técnicas de infraestrutura, segurança e custo.
 ## Tecnologias
 
 **Cloud & Infra**
-`AWS` `Azure (AZ-900)` `Docker` `Kubernetes` `Terraform`
+`AWS` `Azure (AZ-900)` `Docker` `Kubernetes` 
 
 **Segurança**
 `IAM` `Security Groups`
